@@ -1,0 +1,12 @@
+/bin/
+/build/
+/dist/
+*.exe
+*.test
+*.out
+*.o
+*.a
+*.so
+
+# VSCode
+.vscode/
